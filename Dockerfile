@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM arm64v8/alpine:3.14
 MAINTAINER Etopian Inc. <contact@etopian.com>
 
 
